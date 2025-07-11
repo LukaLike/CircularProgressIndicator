@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CircularAnimation</string>
+    <string name="electricity_icon_description">Electricity indicator icon</string>
+</resources>
